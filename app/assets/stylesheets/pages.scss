@@ -1,0 +1,78 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#button {
+  background-color: #337ab7;
+  color: white;
+  border-radius: 0px 5px 5px 0px;
+  border: 0px;
+  margin-left: -30px;
+  padding: 21px;
+  padding-left: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+
+}
+
+
+#text {
+  padding: 20px;
+  padding-top: 26px;
+  padding-bottom: 22px;
+  width: 750px;
+  border-radius: 5px;
+  border-width: 1px;
+  border-color: #cbcbcb;
+  margin-top: 15px;
+}
+
+form {
+ margin-left: 30px;
+}
+
+h1 {
+  margin-bottom: 10px;
+  margin-left: 30px;
+}
+
+.you {
+  border-left: solid;
+  border-width: 10px;
+  margin-bottom: 40px;
+  padding-left: 30px;
+  border-color: #cbcbcb;
+  height: 15%;
+  font-size: 30px;
+
+}
+
+.your-coach {
+  border-left: solid;
+  border-width: 10px;
+  margin-top: 40px;
+  padding-left: 30px;
+  background-color: #fffde1;
+  border-color: #cbcbcb;
+  height: 15%;
+  font-size: 30px;
+}
+
+.contener {
+  height: 100vh;
+}
+
+
+.your-question {
+  margin-bottom:50px;
+}
+
+.your-coach-answer {
+   margin-bottom:50px;
+}
+
+.contener h1 {
+  margin-bottom: 50px;
+  font-size: 50px;
+}
